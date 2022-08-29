@@ -1,6 +1,6 @@
 # ml-portfolio-poc
 
 TODO:
-- Use PyTorch optimizer and loss
-- Use cross entropy loss
+- Use PyTorch optimizer
 - 10 fold cross validation 
+- Include more years of data
