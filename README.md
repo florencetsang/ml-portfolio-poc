@@ -4,6 +4,7 @@ Work in progress
 
 TODO:
 - 10 fold cross validation 
+- L1 and L2 regularization
 - Include more years of data
 
 
