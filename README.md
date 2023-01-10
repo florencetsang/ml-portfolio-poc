@@ -8,7 +8,7 @@ TODO:
 - Include data only till 2019
 - Different values of tau
 
-Exploration
+Exploration:
 - More number of symbols
 - Optimal K
 
